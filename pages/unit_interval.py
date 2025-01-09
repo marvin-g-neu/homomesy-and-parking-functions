@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # center title
-col1, col2, col3 = st.columns([3, 6, 1])
+col1, col2, col3 = st.columns([2, 6, 1])
 
 with col2:
     # title
